@@ -9,6 +9,7 @@ body{
     font-family: Arial;
     text-align: center;
     border:dashed;
+    background: url(https://catherineasquithgallery.com/uploads/posts/2023-02/1676640383_catherineasquithgallery-com-p-fistashkovii-fon-gradient-24.jpg)
 }
 
 footer{
@@ -17,11 +18,15 @@ footer{
     font-family: Georgia;
     border:dashed;
     box-shadow: 10px 10px 10px #E3FC3F;
+    padding: 100;
+    background: url(https://catherineasquithgallery.com/uploads/posts/2023-01/1674251090_catherineasquithgallery-com-p-temno-serii-fon-s-uzorom-foto-1.jpg)
 }
 img{
 border:dashed;
 color:black;
 box-shadow: 10px 10px 10px #E3FC3F;
+padding: 10;
+margin: 30;
 }
 
 .footer{
@@ -33,6 +38,7 @@ a{
     border:dashed;
     color:black;
     box-shadow: 5px 5px 1px #FF7F00;
+    padding: 30
 }
 
 header{
@@ -40,6 +46,8 @@ header{
     color:black;
     border:dashed;
     box-shadow: 10px 10px 10px #E3FC3F;
+    padding:100;
+    background: url(https://biz-nes.ru/wp-content/uploads/2022/09/stolovaya-1-1.jpg)
 }
 
 div{
@@ -56,4 +64,14 @@ h2{
 
 .header{
     text-shadow: 1px 1px #E3FC3F;
+}
+
+strong{
+    text-shadow: 2px 1px grey;
+    color:grey;
+}
+
+header strong{
+    text-shadow: 1px 1px black;
+    color:black;
 }
