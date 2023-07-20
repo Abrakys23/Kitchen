@@ -1,19 +1,46 @@
 span{
-color:				
-#DC0055 ;    
+color:grey;
+opacity: 0.99;
+text-shadow: 2px 2px; 
 }
 
 body{
-    color:#FF5300;
-    background: #FFE673;
+    color:black;
+    font-family: Arial;
+    text-align: center;
+    border:dashed;
+    box-shadow: 10px 10px 10px black
 }
 
 footer{
-    background: black;
-    color:				
-#9FEE00;
+    background: grey;
+    color: black;
+    font-family: Georgia;
+    border:dashed;
 }
 img{
 border:dashed;
-color:purple;
+color:black;
+opacity: 0.80
+}
+
+.footer{
+    color:black;
+    border:dashed;
+}
+
+a{
+    border:dashed;
+    color:black;
+    box-shadow: 8px 5px 5px #FFFD00
+}
+
+header{
+    background:grey;
+    color:black;
+    border:dashed;
+}
+
+div{
+    text-shadow: 1px 1px; 
 }
