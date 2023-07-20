@@ -1,7 +1,7 @@
 span{
 color:grey;
 opacity: 0.99;
-text-shadow: 2px 2px; 
+text-shadow: 2px 2px #E3FC3F; 
 }
 
 body{
@@ -9,7 +9,6 @@ body{
     font-family: Arial;
     text-align: center;
     border:dashed;
-    box-shadow: 10px 10px 10px black
 }
 
 footer{
@@ -17,11 +16,12 @@ footer{
     color: black;
     font-family: Georgia;
     border:dashed;
+    box-shadow: 10px 10px 10px #E3FC3F;
 }
 img{
 border:dashed;
 color:black;
-opacity: 0.80
+box-shadow: 10px 10px 10px #E3FC3F;
 }
 
 .footer{
@@ -32,15 +32,28 @@ opacity: 0.80
 a{
     border:dashed;
     color:black;
-    box-shadow: 8px 5px 5px #FFFD00
+    box-shadow: 5px 5px 1px #FF7F00;
 }
 
 header{
     background:grey;
     color:black;
     border:dashed;
+    box-shadow: 10px 10px 10px #E3FC3F;
 }
 
 div{
-    text-shadow: 1px 1px; 
+    text-shadow: 1px 1px #E3FC3F; 
+}
+
+h1{
+    text-shadow: 3px 1px #E3FC3F;
+}
+
+h2{
+     text-shadow: 2px 1px #E3FC3F;
+}
+
+.header{
+    text-shadow: 1px 1px #E3FC3F;
 }
