@@ -1,0 +1,66 @@
+img{
+border:inset;
+color:black;
+box-shadow: 10px 10px 10px #E3FC3F;
+padding: 10;
+margin: 30;
+background: #E3FC3F;
+}
+
+header{
+    text-align: center;
+    height: 100;
+    box-shadow: 10px 10px 10px #E3FC3F;
+    border: inset;
+    padding: 50;
+    margin: 10;
+    color: black;
+    text-shadow: 1px 1px #E3FC3F;
+    background: url(https://avatars.mds.yandex.net/i?id=43bdf9d7b9808cc584877ea835edbead18f20e14-4120498-images-thumbs&n=13)
+}
+
+body{
+    font-family: Georgia;
+    text-align: center;
+    color: black;
+    text-shadow: 1px 1px #E3FC3F;
+    background: url(https://avatars.mds.yandex.net/i?id=131a68ba5937782dfec6d9bd9e970a9b8c4a0328-10248205-images-thumbs&n=13)
+}
+
+footer{
+    text-align: center;
+    height: 100;
+    box-shadow: 10px 10px 10px #E3FC3F;
+    border: inset;
+    padding: 50;
+    margin: 10;
+    color: black;
+    text-shadow: 1px 1px #E3FC3F;
+    background: url(https://avatars.mds.yandex.net/i?id=7939e330229456e38c9e5ffe76a70c7262111c65-6371016-images-thumbs&n=13)
+}
+
+a{
+    border: dashed;
+    color: #FF7F00;
+    box-shadow: 5px 5px 1px #FF7F00;
+    padding: 30
+}
+
+.soup{
+    text-align: left;
+}
+.garnir{
+    text-align: left;
+}
+.two{
+    text-align: left;
+}
+.cooc{
+    text-align: left;
+}
+.cake{
+    text-align: left;
+}
+.salat{
+    text-align: left;
+}
