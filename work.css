@@ -4,8 +4,32 @@ header{
     color: black;
     border:dashed;
     box-shadow: 10px 10px 10px  #E3FC3F;
-    padding:100;
+    padding:100;    
     font-family: Arial;
     text-align: center;
     background: url(https://avatars.mds.yandex.net/i?id=9b3203e73067e51954d56c8459ff2e600e42126f-9065942-images-thumbs&n=13)
+}
+
+body{
+    text-shadow: 1px 1px orange;
+    color: black;
+    border:dashed;
+    font-family: Arial;
+    text-align: center;
+    background: url(https://avatars.mds.yandex.net/i?id=4035ffe14d6e55f6fd8afa43963ed09e6e69a64a-9215651-images-thumbs&n=13)
+}
+
+.wor{
+   text-align: left; 
+}
+
+.work{
+    box-shadow: 10px 10px 10px  #E3FC3F;
+   background: url(https://avatars.mds.yandex.net/i?id=2237b9280adf505412d8d226dc3d29575526f080-9225226-images-thumbs&n=13)
+}
+
+.wo{
+    box-shadow: 10px 10px 10px  #E3FC3F;
+    text-align: left;
+    background: url(https://avatars.mds.yandex.net/i?id=2237b9280adf505412d8d226dc3d29575526f080-9225226-images-thumbs&n=13)
 }
