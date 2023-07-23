@@ -1,1 +1,11 @@
-
+header{
+    background:grey;
+    text-shadow: 1px 1px orange;
+    color: black;
+    border:dashed;
+    box-shadow: 10px 10px 10px  #E3FC3F;
+    padding:100;
+    font-family: Arial;
+    text-align: center;
+    background: url(https://avatars.mds.yandex.net/i?id=9b3203e73067e51954d56c8459ff2e600e42126f-9065942-images-thumbs&n=13)
+}
