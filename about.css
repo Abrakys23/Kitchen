@@ -5,6 +5,7 @@ box-shadow: 10px 10px 10px #E3FC3F;
 padding: 10;
 margin: 30;
 background: #E3FC3F;
+display: flex;
 }
 
 header{
@@ -24,6 +25,8 @@ body{
     text-align: center;
     color: black;
     text-shadow: 1px 1px #E3FC3F;
+    border: ridge;
+    border-color: black;
     background: url(https://avatars.mds.yandex.net/i?id=131a68ba5937782dfec6d9bd9e970a9b8c4a0328-10248205-images-thumbs&n=13)
 }
 
@@ -63,4 +66,18 @@ a{
 }
 .salat{
     text-align: left;
+}
+
+ul{
+    border: ridge;
+    border-color: #E3FC3F;
+    box-shadow: 10px 5px 5px #E3FC3F;
+    background: url(https://avatars.mds.yandex.net/i?id=0df6e518a1b6d50e712745e0e3005e36538564fc-9268591-images-thumbs&n=13)
+}
+
+.cool{
+    border: ridge;
+    border-color: #E3FC3F;
+    box-shadow: 10px 5px 5px #E3FC3F;
+    background: url(https://avatars.mds.yandex.net/i?id=0df6e518a1b6d50e712745e0e3005e36538564fc-9268591-images-thumbs&n=13)
 }
