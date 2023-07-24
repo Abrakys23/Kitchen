@@ -4,6 +4,7 @@ header{
     border-color: blue;
     padding: 50;
     margin: 10;
+    box-shadow: 10px 5px 5px blue;
     font-family: Monospace;
     background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnuwhGcoZb-h6UvIQtbsJvLg7VvLHVq8FaVw&usqp=CAU)
 }
@@ -41,8 +42,10 @@ a{
 footer{
     color: black;
     border: solid;
+    padding: 50;
+    margin: 10;
     border-color: blue;
-    text-shadow: 1px 1px black;
+    text-shadow: 1px 1px blue;
     box-shadow: 10px 5px 5px blue;
     background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwu-QXMvx_JLUJCQbmcfsabMSTtjibVY1r9g&usqp=CAU)
 }
@@ -50,5 +53,7 @@ footer{
 body{
     border: solid;
     border-color: blue;
+    text-align: center;
+    text-shadow: 1px 1px blue;
     background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTShJFfHXFY4EIZPGmTgq_nLx0OGCrwq_L7xw&usqp=CAU)
 }
