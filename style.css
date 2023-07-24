@@ -72,6 +72,16 @@ strong{
 }
 
 header strong{
-    text-shadow: 1px 1px: black;
+    text-shadow: 1px 1px black;
     color:black;
 }
+
+a:visited{
+   text-decoration: none; 
+   color: red;
+}
+
+a:hover{
+    text-decoration: none;
+}
+
