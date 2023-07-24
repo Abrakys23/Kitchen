@@ -1,1 +1,35 @@
+header{
+    text-align: center;
+    border: solid;
+    border-color: blue;
+    padding: 50;
+    margin: 10;
+    font-family: Monospace;
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnuwhGcoZb-h6UvIQtbsJvLg7VvLHVq8FaVw&usqp=CAU)
+}
 
+.header{
+    text-shadow: 1px 1px blue;
+}
+
+img{
+    border: solid;
+    border-color: blue;
+    color:black;
+    box-shadow: 10px 10px 10px blue;
+    padding: 10;
+    margin: 30;
+    background: blue;
+}
+
+strong{
+    text-shadow: 1px 1px black;
+    background-color: white;
+}
+
+a{
+     border:dashed;
+     color:blue;
+     box-shadow: 5px 5px 1px blue;
+     padding: 30;
+}
