@@ -46,7 +46,8 @@ a{
     border: dashed;
     color: #FF7F00;
     box-shadow: 5px 5px 1px #FF7F00;
-    padding: 30
+    padding: 30;
+    float: right;
 }
 
 .soup{
@@ -70,6 +71,7 @@ a{
 
 ul{
     border: ridge;
+    float: left;
     border-color: #E3FC3F;
     box-shadow: 10px 5px 5px #E3FC3F;
     background: url(https://avatars.mds.yandex.net/i?id=0df6e518a1b6d50e712745e0e3005e36538564fc-9268591-images-thumbs&n=13)
@@ -80,4 +82,16 @@ ul{
     border-color: #E3FC3F;
     box-shadow: 10px 5px 5px #E3FC3F;
     background: url(https://avatars.mds.yandex.net/i?id=0df6e518a1b6d50e712745e0e3005e36538564fc-9268591-images-thumbs&n=13)
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+a:vision{
+    color: red;
+}
+
+p{
+    float: left;
 }
