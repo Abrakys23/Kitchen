@@ -33,3 +33,22 @@ a{
      box-shadow: 5px 5px 1px blue;
      padding: 30;
 }
+
+.body{
+    float: left;
+}
+
+footer{
+    color: black;
+    border: solid;
+    border-color: blue;
+    text-shadow: 1px 1px black;
+    box-shadow: 10px 5px 5px blue;
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwu-QXMvx_JLUJCQbmcfsabMSTtjibVY1r9g&usqp=CAU)
+}
+
+body{
+    border: solid;
+    border-color: blue;
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTShJFfHXFY4EIZPGmTgq_nLx0OGCrwq_L7xw&usqp=CAU)
+}
