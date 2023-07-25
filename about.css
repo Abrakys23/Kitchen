@@ -8,13 +8,13 @@ body{
     color:black;
     font-family: Arial;
     text-align: center;
-    border: solid 50px;
+    border: solid 10px;
     background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6Dr5BSyTO4tfYRY3JFU3KLVZd-NaCmuFjXw&usqp=CAU)
 }
 
 footer{
     font-family: Georgia;
-    border: solid 5px;
+    border: solid;
     box-shadow: 10px 10px 10px #E3FC3F;
     padding: 100;
     background-color: #E3FC3F; 
@@ -83,6 +83,7 @@ p{
     color: black;
     text-shadow: 1px 1px black;
     font-size: 20px;
+    text-align: center;
 }
 
 body{
@@ -95,4 +96,35 @@ h2{
 
 span{
     font-size: 50px;
+}
+
+img:hover{
+    opacity: 1;
+    transform: scale(1.5);
+    transition: all 3s linear;
+}
+
+img{
+    opacity: 0;
+    border: solid 10px grey;
+    border: solid 5 grey;
+}
+
+ol:hover{
+    transform: scale(1.2);
+    transition: all 3s linear;
+}
+
+ul{
+    transform: scale(1.5);
+    transition: all 3s linear;
+    background: white;
+}
+
+ol{
+    font-size: 20;
+    float: right;
+    color: black;
+    text-shadow: black;
+    background: white;
 }
