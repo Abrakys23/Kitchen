@@ -1,59 +1,81 @@
-header{
-    text-align: center;
-    border: solid;
-    border-color: blue;
-    padding: 50;
-    margin: 10;
-    box-shadow: 10px 5px 5px blue;
-    font-family: Monospace;
-    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnuwhGcoZb-h6UvIQtbsJvLg7VvLHVq8FaVw&usqp=CAU)
-}
-
-.header{
-    text-shadow: 1px 1px blue;
-}
-
-img{
-    border: solid;
-    border-color: blue;
-    color:black;
-    box-shadow: 10px 10px 10px blue;
-    padding: 10;
-    margin: 30;
-    background: blue;
-}
-
-strong{
-    text-shadow: 1px 1px black;
-    background-color: white;
-}
-
-a{
-     border:dashed;
-     color:blue;
-     box-shadow: 5px 5px 1px blue;
-     padding: 30;
-}
-
-.body{
-    float: left;
-}
-
-footer{
-    color: black;
-    border: solid;
-    padding: 50;
-    margin: 10;
-    border-color: blue;
-    text-shadow: 1px 1px blue;
-    box-shadow: 10px 5px 5px blue;
-    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwu-QXMvx_JLUJCQbmcfsabMSTtjibVY1r9g&usqp=CAU)
+span{
+color:grey;
+opacity: 0.99;
+text-shadow: 2px 2px black; 
 }
 
 body{
-    border: solid;
-    border-color: blue;
+    color:black;
+    font-family: Arial;
     text-align: center;
-    text-shadow: 1px 1px blue;
-    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTShJFfHXFY4EIZPGmTgq_nLx0OGCrwq_L7xw&usqp=CAU)
+    border:dashed;
+    background: url(https://veralline.com/uploads/images/comparison/2018/06/05/b2e92595d1.jpg)
+}
+
+footer{
+    background: grey;
+    color: black;
+    font-family: Georgia;
+    border:dashed;
+    box-shadow: 10px 10px 10px #E3FC3F;
+    padding: 100;
+    background: url(https://avatars.dzeninfra.ru/get-zen_doc/1362956/pub_617ea36093a1042c71269086_617ea3fd8d2a8a63c7300e03/scale_1200)
+}
+img{
+border:dashed;
+color:black;
+box-shadow: 10px 10px 10px #E3FC3F;
+padding: 10;
+margin: 30;
+background: #E3FC3F;
+}
+
+.footer{
+    color:black;
+    border:dashed;
+}
+
+a{
+    border:dashed;
+    color:black;
+    box-shadow: 5px 5px 1px #FF7F00;
+    padding: 30;
+    color: black;
+    text-shadow: 1px 1px black;
+    background-color: orange;
+}
+
+header{
+    background:grey;
+    color:black;
+    border:dashed;
+    box-shadow: 10px 10px 10px #E3FC3F;
+    padding:100;
+    background: url(https://biz-nes.ru/wp-content/uploads/2022/09/stolovaya-1-1.jpg)
+}
+
+div{
+    text-shadow: 1px 1px #E3FC3F; 
+}
+
+h1{
+    text-shadow: 3px 1px #E3FC3F;
+}
+
+h2{
+     text-shadow: 2px 1px #E3FC3F;
+}
+
+.header{
+    text-shadow: 1px 1px #E3FC3F;
+}
+
+strong{
+    text-shadow: 2px 1px #E3FC3F;
+    color:black;
+}
+
+header strong{
+    text-shadow: 1px 1px black;
+    color:black;
 }
