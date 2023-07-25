@@ -9,19 +9,18 @@ body{
     font-family: Arial;
     text-align: center;
     border:dashed;
-    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSebVBGM6HpYpcxlL9LHYDdhoM2rQGAcua7wA&usqp=CAU)
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6Dr5BSyTO4tfYRY3JFU3KLVZd-NaCmuFjXw&usqp=CAU)
 }
 
 footer{
-    background: grey;
-    color: #E3FC3F;
     font-family: Georgia;
     border:dashed;
     box-shadow: 10px 10px 10px #E3FC3F;
     padding: 100;
-    color: #E3FC3F;
+    background-color: #E3FC3F; 
     text-shadow: 1px 1px #E3FC3F;
-    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9PPb6vggrJx2yzdUqi3eEzv2uD3U2-Ffb0w&usqp=CAU)
+    color: #E3FC3F;
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSebVBGM6HpYpcxlL9LHYDdhoM2rQGAcua7wA&usqp=CAU)
 }
 img{
 border:dashed;
@@ -84,4 +83,11 @@ header strong{
 
 ul{
     float: left;
+    text-shadow: 1px 1px black;
+}
+
+p{
+    color: black;
+    background-color: blacklack;
+    text-shadow: 1px 1px black;
 }
