@@ -9,17 +9,19 @@ body{
     font-family: Arial;
     text-align: center;
     border:dashed;
-    background: url(https://veralline.com/uploads/images/comparison/2018/06/05/b2e92595d1.jpg)
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSebVBGM6HpYpcxlL9LHYDdhoM2rQGAcua7wA&usqp=CAU)
 }
 
 footer{
     background: grey;
-    color: black;
+    color: #E3FC3F;
     font-family: Georgia;
     border:dashed;
     box-shadow: 10px 10px 10px #E3FC3F;
     padding: 100;
-    background: url(https://avatars.dzeninfra.ru/get-zen_doc/1362956/pub_617ea36093a1042c71269086_617ea3fd8d2a8a63c7300e03/scale_1200)
+    color: #E3FC3F;
+    text-shadow: 1px 1px #E3FC3F;
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9PPb6vggrJx2yzdUqi3eEzv2uD3U2-Ffb0w&usqp=CAU)
 }
 img{
 border:dashed;
@@ -51,7 +53,7 @@ header{
     border:dashed;
     box-shadow: 10px 10px 10px #E3FC3F;
     padding:100;
-    background: url(https://biz-nes.ru/wp-content/uploads/2022/09/stolovaya-1-1.jpg)
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGQxtcheaclbsw1vvzLyiBumkmmVqd5Uzz6Q&usqp=CAU)
 }
 
 div{
