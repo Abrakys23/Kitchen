@@ -8,27 +8,19 @@ body{
     color:black;
     font-family: Arial;
     text-align: center;
-    border:dashed;
+    border: solid 50px;
     background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6Dr5BSyTO4tfYRY3JFU3KLVZd-NaCmuFjXw&usqp=CAU)
 }
 
 footer{
     font-family: Georgia;
-    border:dashed;
+    border: solid 5px;
     box-shadow: 10px 10px 10px #E3FC3F;
     padding: 100;
     background-color: #E3FC3F; 
     text-shadow: 1px 1px #E3FC3F;
     color: #E3FC3F;
     background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSebVBGM6HpYpcxlL9LHYDdhoM2rQGAcua7wA&usqp=CAU)
-}
-img{
-border:dashed;
-color:black;
-box-shadow: 10px 10px 10px #E3FC3F;
-padding: 10;
-margin: 30;
-background: #E3FC3F;
 }
 
 .footer{
@@ -49,7 +41,7 @@ a{
 header{
     background:grey;
     color:black;
-    border:dashed;
+    border: solid 5px;
     box-shadow: 10px 10px 10px #E3FC3F;
     padding:100;
     background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGQxtcheaclbsw1vvzLyiBumkmmVqd5Uzz6Q&usqp=CAU)
@@ -61,6 +53,7 @@ div{
 
 h1{
     text-shadow: 3px 1px #E3FC3F;
+    font-size: 60px
 }
 
 h2{
@@ -89,8 +82,17 @@ ul{
 p{
     color: black;
     text-shadow: 1px 1px black;
+    font-size: 20px;
 }
 
 body{
     padding: 20;
+}
+
+h2{
+    font-size: 40px;
+}
+
+span{
+    font-size: 50px;
 }
