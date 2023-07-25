@@ -88,6 +88,9 @@ ul{
 
 p{
     color: black;
-    background-color: blacklack;
     text-shadow: 1px 1px black;
+}
+
+body{
+    padding: 20;
 }
