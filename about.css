@@ -79,3 +79,7 @@ header strong{
     text-shadow: 1px 1px black;
     color:black;
 }
+
+ul{
+    float: left;
+}
