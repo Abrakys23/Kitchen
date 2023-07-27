@@ -35,7 +35,9 @@ a{
     padding: 30;
     color: black;
     text-shadow: 1px 1px black;
+    text-decoration: none;
     background-color: orange;
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa4Mtr4OcxTdJtqupeacgayjzq-gw1tDwVcnxXMzt0pioMYUhb5A1b4oWf0cITaPQseuc&usqp=CAU)
 }
 
 header{
@@ -107,6 +109,7 @@ img:hover{
 img{
     opacity: 0;
     border: solid 10px grey;
+    border: solid 5 grey;
 }
 
 ol:hover{
@@ -126,4 +129,16 @@ ol{
     color: black;
     text-shadow: black;
     background: white;
+}
+
+button{
+    background: white;
+    border: 10px black solid;
+    opacity: 0;
+}
+
+button:hover{
+    opacity: 1;
+    transform: scale(1.5);
+    transition: all 3s linear;
 }
