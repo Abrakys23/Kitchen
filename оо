@@ -1,0 +1,24 @@
+<html>
+    <head>
+        <title>Обо мне...</title>
+    </head>
+    <body>
+        <header>
+            <p>Обо мне...</p>
+            <p>-</p>
+            <a href="about.html">о нас</a>
+            <a href="work.html">работа</a>
+            <a href="menu.html">меню</a>
+            <a href="index.html">глав. страница</a>
+        </header>
+        <main>
+        </main>
+        <footer>
+            <p><i>Мой номер телефона: +7(920)-021-84-54</i></p>
+            <p>Моя эл. Почта: maksimtazeev10@gmail.com</p>
+            <p>Мою ютуб канал:</p><a href="https://www.youtube.com/">Мой ютубчик сдесь :)</a>
+            <p>На этом всё когда я создавал сайт было прикольно теперь пока :)</p>
+            <p>:)</p>
+        </footer>
+    </body>
+</html>
