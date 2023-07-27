@@ -103,11 +103,10 @@ span{
 img:hover{
     opacity: 1;
     transform: scale(1.5);
-    transition: all 3s linear;
+    transition: all 10s linear;
 }
 
 img{
-    opacity: 0;
     border: solid 10px grey;
     border: solid 5 grey;
 }
@@ -125,7 +124,7 @@ ul{
 
 ol{
     font-size: 20;
-    float: right;
+    float: left;
     color: black;
     text-shadow: black;
     background: white;
