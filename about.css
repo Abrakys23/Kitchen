@@ -103,12 +103,7 @@ span{
 img:hover{
     opacity: 1;
     transform: scale(1.5);
-    transition: all 10s linear;
-}
-
-img{
-    border: solid 10px grey;
-    border: solid 5 grey;
+    transition: all 15s linear;
 }
 
 ol:hover{
@@ -139,5 +134,11 @@ button{
 button:hover{
     opacity: 1;
     transform: scale(1.5);
-    transition: all 3s linear;
+    transition: all 1s linear;
+}
+
+.gif{
+    opacity: 1;
+    transition: all 15s linear;
+    border: 10px white solid;
 }
