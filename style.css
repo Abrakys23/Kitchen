@@ -101,15 +101,8 @@ span{
 }
 
 img:hover{
-    opacity: 1;
     transform: scale(1.5);
     transition: all 3s linear;
-}
-
-img{
-    opacity: 0;
-    border: solid 10px grey;
-    border: solid 5 grey;
 }
 
 ol:hover{
