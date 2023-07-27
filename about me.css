@@ -1,0 +1,58 @@
+body{
+    color:black;
+    font-family: Arial;
+    text-align: center;
+    border: solid 10px;
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6Dr5BSyTO4tfYRY3JFU3KLVZd-NaCmuFjXw&usqp=CAU)
+}
+
+footer{
+    font-family: Georgia;
+    border: solid;
+    box-shadow: 10px 10px 10px #E3FC3F;
+    padding: 100;
+    background-color: #E3FC3F; 
+    text-shadow: 1px 1px #E3FC3F;
+    color: #E3FC3F;
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSebVBGM6HpYpcxlL9LHYDdhoM2rQGAcua7wA&usqp=CAU)
+}
+
+a{
+    border:dashed;
+    color:black;
+    box-shadow: 5px 5px 1px #FF7F00;
+    padding: 30;
+    color: black;
+    text-shadow: 1px 1px black;
+    text-decoration: none;
+    background-color: orange;
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa4Mtr4OcxTdJtqupeacgayjzq-gw1tDwVcnxXMzt0pioMYUhb5A1b4oWf0cITaPQseuc&usqp=CAU)
+}
+
+header{
+    background:grey;
+    color:black;
+    border: solid 5px;
+    box-shadow: 10px 10px 10px #E3FC3F;
+    padding:100;
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGQxtcheaclbsw1vvzLyiBumkmmVqd5Uzz6Q&usqp=CAU)
+}
+
+main{
+    padding: 150;
+    margin: 10;
+}
+
+p{
+    font-size: 20;
+    color: black;
+    text-shadow: black;
+    background: white;
+}
+
+a{
+    font-size: 20;
+    float: left;
+    color: black;
+    text-shadow: black;
+}
