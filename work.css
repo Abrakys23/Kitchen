@@ -132,11 +132,9 @@ ol{
 button{
     background: white;
     border: 10px black solid;
-    opacity: 0;
 }
 
 button:hover{
-    opacity: 1;
     transform: scale(1.5);
     transition: all 3s linear;
 }
