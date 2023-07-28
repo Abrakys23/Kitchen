@@ -23,3 +23,15 @@ a{
     text-decoration: none;
     background-color: orange;
 }
+
+img:hover{
+    opacity: 1;
+    transform: scale(1.5);
+    transition: all 3s linear;
+}
+
+img{
+    background-color: orange;
+    border: 7px black solid;
+    box-shadow: 10px 10px 10px orange;
+}
