@@ -126,3 +126,7 @@ button:hover{
     transition: all 15s linear;
     border: 10px white solid;
 }
+
+.foot{
+    background-color: orange;
+}
