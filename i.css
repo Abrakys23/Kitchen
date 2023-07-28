@@ -56,3 +56,7 @@ a{
     color: black;
     text-shadow: black;
 }
+
+img{
+    opacity: 0.80;
+}
