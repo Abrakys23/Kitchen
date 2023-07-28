@@ -7,6 +7,11 @@ body{
     background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6Dr5BSyTO4tfYRY3JFU3KLVZd-NaCmuFjXw&usqp=CAU)
 }
 
+
+.foot{
+    background-color: orange;
+}
+
 footer{
     font-family: Georgia;
     border: solid;
