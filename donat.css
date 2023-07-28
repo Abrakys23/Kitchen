@@ -1,0 +1,26 @@
+img:hover{
+    opacity: 1;
+    transform: scale(1.5);
+    transition: all 3s linear;
+}
+
+img{
+    opacity: 0;
+    border: solid 40px grey;
+    border: solid 5 grey;
+}
+
+p{
+    font-size: 30;
+}
+
+body{
+    background:grey;
+    color:black;
+    border: solid 10px;
+    box-shadow: 10px 10px 10px #E3FC3F;
+    padding:100;
+    margin: 100;
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGQxtcheaclbsw1vvzLyiBumkmmVqd5Uzz6Q&usqp=CAU)
+}
+}
