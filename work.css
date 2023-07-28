@@ -135,3 +135,22 @@ button:hover{
 .foot{
     background-color: orange;
 }
+
+ol:hover{
+    transform: scale(1.2);
+    transition: all 3s linear;
+}
+
+ul{
+    transform: scale(1.5);
+    transition: all 3s linear;
+    background: white;
+}
+
+ol{
+    font-size: 20;
+    float: right;
+    color: black;
+    text-shadow: black;
+    background: white;
+}
