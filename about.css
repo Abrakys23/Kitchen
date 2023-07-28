@@ -106,23 +106,10 @@ img:hover{
     transition: all 15s linear;
 }
 
-ol:hover{
-    transform: scale(1.2);
-    transition: all 3s linear;
-}
-
 ul{
-    transform: scale(1.5);
-    transition: all 3s linear;
+    margin: 100;
     background: white;
-}
-
-ol{
-    font-size: 20;
-    float: left;
-    color: black;
-    text-shadow: black;
-    background: white;
+    font-size: 30px;
 }
 
 button{
