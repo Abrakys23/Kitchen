@@ -23,4 +23,15 @@ body{
     margin: 100;
     background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGQxtcheaclbsw1vvzLyiBumkmmVqd5Uzz6Q&usqp=CAU)
 }
+
+a{
+    border:dashed;
+    color:black;
+    box-shadow: 5px 5px 1px #FF7F00;
+    padding: 30;
+    color: black;
+    text-shadow: 1px 1px black;
+    text-decoration: none;
+    background-color: orange;
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa4Mtr4OcxTdJtqupeacgayjzq-gw1tDwVcnxXMzt0pioMYUhb5A1b4oWf0cITaPQseuc&usqp=CAU)
 }
