@@ -110,14 +110,8 @@ img{
     opacity: 0;
 }
 
-ol:hover{
-    transform: scale(1.2);
-    transition: all 3s linear;
-}
-
 ul{
     transform: scale(1.5);
-    transition: all 3s linear;
     background: white;
 }
 
