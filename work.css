@@ -131,3 +131,7 @@ button:hover{
     transform: scale(1.5);
     transition: all 3s linear;
 }
+
+.foot{
+    background-color: orange;
+}
